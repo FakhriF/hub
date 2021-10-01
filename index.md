@@ -14,7 +14,7 @@
 </div>
 <div class="link-died">
         <div class="menu char">
-            <a href="/hub/introduction.html">
+            <a href="fakhrif.github.io/hub/introduction.md">
             <img src="images/char.png" class="icon"/>
             </a>
         </div>
